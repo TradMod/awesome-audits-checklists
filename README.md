@@ -57,13 +57,9 @@
 ### AMMs (Automated Market Makers)
 - [AMM Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/amm.md) — by Decurity  
   A checklist for auditing AMM smart contracts.
-- [AMM Vulnerabilities](https://blog.decurity.io/typical-vulnerabilities-in-amm-protocols-9006f7986ba0) — by Decurity  
-  Overview of common vulnerabilities in AMM protocols.
 ### CDP (Collateralized Debt Positions)
 - [CDP Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/cdp.md) — by Decurity  
   Checklist for auditing CDP and lending protocols.
-- [CDP Vulnerabilities ()](https://blog.decurity.io/typical-vulnerabilities-in-lending-and-cdp-protocols-e778e540e215) — by Decurity  
-  Discussion of vulnerabilities in lending and CDP systems.
 ### LSD (Liquid Staking Derivatives)
 - [LSD Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/lsd.md) — by Decurity  
   Checklist for auditing LSD protocols.
