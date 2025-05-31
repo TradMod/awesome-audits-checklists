@@ -151,7 +151,7 @@
   A guide to common bugs and integration pitfalls in Blast.
 ### Near
 - [Near Smart Contracts Checklist](https://docs.near.org/smart-contracts/security/checklist) — Near Docs
-Near smart contracts security considerations list 
+  Near smart contracts security considerations list 
 
 ## 11. **Other/Uncategorized**
 - [Solidity Gas Optimizations](https://github.com/TechnoGeek01/solidity-gas-optimizations) — by TechnoGeek01  
