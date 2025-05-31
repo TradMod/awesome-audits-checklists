@@ -131,6 +131,9 @@
   Examples of security issues in Solana contracts.
 - [Solana Advanced Security](https://substack.com/home/post/p-164534668) — by Nirlin  
   Advanced security topics for Solana developers.
+### Arbitrum
+- [Arbitrum Integration Bugs](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/Arbitrum.md) — by Windhustler 
+  Arbitrum Security pitfalls and integration guide.
 ### Algorand
 - [Algorand Not-So-Smart Contracts](https://secure-contracts.com/not-so-smart-contracts/algorand/index.html) — by ToB Secure Contracts  
   Security pitfalls and real-world issues in Algorand contracts.
@@ -153,7 +156,14 @@
 - [Near Smart Contracts Checklist](https://docs.near.org/smart-contracts/security/checklist) — Near Docs  
   Near smart contracts security considerations list 
 
-## 11. **Uniswap V4 Hooks Integration**
+## 11. **Protocols Integration Security**
+- [LayerZero V2 Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/LayerZeroV2.md) — by windhustler  
+  A detailed checklist for auditing the security of LayerZero V2 cross-chain messaging protocol integrations.
+- [Wormhole Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/Wormhole.md) — by windhustler  
+  A comprehensive audit checklist for Wormhole bridge integrations, highlighting key risks and best practices.
+- [Chainlink CCIP Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/Chainlink-CCIP.md) — by windhustler  
+  A thorough checklist for reviewing and securing Chainlink CCIP (Cross-Chain Interoperability Protocol) implementations.
+### UniswapV4 Hooks Integration Guides
 - [Uniswap V4 Hooks Security Talk](https://www.youtube.com/watch?v=Fbxsv8rxHZw) — by Damian (Composable Security)  
   A detailed presentation on Uniswap V4’s architecture and the main security threats and best practices when building custom hooks.
 - [Uniswap V4 Hooks Security Deep Dive](https://www.youtube.com/watch?v=4o8yGcq6tfM) — by Jota Carpanelli (OpenZeppelin) 
