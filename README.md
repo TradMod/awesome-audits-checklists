@@ -53,47 +53,40 @@
 - [Account Abstraction Audit Checklist](https://slowmist.medium.com/slowmist-security-audit-checklist-for-account-abstraction-wallets-ed48fc10cdbc) — by Slowmist  
   Audit checklist for account abstraction wallets.
 
-## 3. **DeFi Protocol Types**
-### AMMs (Automated Market Makers)
-- [AMM Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/amm.md) — by Decurity  
-  A checklist for auditing AMM smart contracts.
-### CDP (Collateralized Debt Positions)
-- [CDP Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/cdp.md) — by Decurity  
-  Checklist for auditing CDP and lending protocols.
-### LSD (Liquid Staking Derivatives)
-- [LSD Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/lsd.md) — by Decurity  
-  Checklist for auditing LSD protocols.
-- [LSDs Best Practices](https://mixbytes.io/blog/liquid#rec621210033) — by MixBytes  
-  Security analysis and best practices for liquid staking derivatives.
-### LRTs (Liquid Restaking Tokens)
-- [LRTs](https://blog.sigmaprime.io/liquid-restaking.html) — by Sigma Prime  
-  An article on security considerations for liquid restaking tokens.
-### Liquidations
-- [Liquidation Vulnerabilities](https://dacian.me/defi-liquidation-vulnerabilities) — by Dacian  
-  Analysis of vulnerabilities in DeFi liquidation mechanisms.
-### CLM (Concentrated Liquidity Managers)
-- [CLM Vulnerabilities](https://dacian.me/concentrated-liquidity-manager-vulnerabilities) — by Dacian  
-  Security issues and risks in concentrated liquidity managers.
-### Slippage
-- [Slippage Attacks](https://dacian.me/defi-slippage-attacks) — by Dacian  
-  Explanation of slippage attacks in DeFi and how to prevent them.
-### Precision Loss
-- [Precision Loss Errors](https://dacian.me/precision-loss-errors) — by Dacian  
-  Discussion of errors caused by precision loss in smart contracts.
-
-## 4. **Oracles**
-- [Chainlink Oracle Attacks](https://medium.com/cyfrin/chainlink-oracle-defi-attacks-93b6cb6541bf) — by Cyfrin  
-  Article on past attacks and vulnerabilities involving Chainlink oracles.
-- [Berachain Oracle Bugs](https://x.com/blckhv/status/1928502350999687388?t=sNBNAMdhhSp9TkSGLlvpzg&s=19) — by blckhv  
-  Twitter thread detailing bugs found in Berachain's oracle implementation.
-
-## 5. **Bridges, Interoperability & Multichain**
+## 3. **Bridges, Interoperability & Multichain**
 - [Interoperability Protocol Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist) — by Windhustler  
   A checklist for securing interoperability protocols and cross-chain solutions.
 - [Multichain Auditor](https://github.com/0xJuancito/multichain-auditor) — by 0xJuancito  
   A repository with resources and tools for auditing multichain protocols.
 - [Cross-chain Bridge Security Checklist](https://github.com/spearbit/portfolio/blob/master/content/bridges/BridgeSecurityChecklist.md) — by Spearbit  
   Checklist for auditing the security of cross-chain bridges.
+
+
+## 4. **DeFi Protocols**
+- [AMM Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/amm.md) — by Decurity  
+  A checklist for auditing AMM smart contracts.
+- [CDP Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/cdp.md) — by Decurity  
+  Checklist for auditing Collateralized Debt Positions.
+- [LSD Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/lsd.md) — by Decurity  
+  Checklist for auditing LSD protocols.
+- [LSDs Best Practices](https://mixbytes.io/blog/liquid#rec621210033) — by MixBytes  
+  Security analysis and best practices for liquid staking derivatives.
+- [Liquid Restaking Tokens](https://blog.sigmaprime.io/liquid-restaking.html) — by Sigma Prime  
+  An article on security considerations for liquid restaking tokens (LRTs).
+- [Liquidation Vulnerabilities](https://dacian.me/defi-liquidation-vulnerabilities) — by Dacian  
+  Analysis of vulnerabilities in DeFi liquidation mechanisms.
+- [CLM Vulnerabilities](https://dacian.me/concentrated-liquidity-manager-vulnerabilities) — by Dacian  
+  Security issues and risks in concentrated liquidity managers.
+- [Slippage Attacks](https://dacian.me/defi-slippage-attacks) — by Dacian  
+  Explanation of slippage attacks in DeFi and how to prevent them.
+- [Precision Loss Errors](https://dacian.me/precision-loss-errors) — by Dacian  
+  Discussion of errors caused by precision loss in smart contracts.
+
+## 5. **Oracles**
+- [Chainlink Oracle Attacks](https://medium.com/cyfrin/chainlink-oracle-defi-attacks-93b6cb6541bf) — by Cyfrin  
+  Article on past attacks and vulnerabilities involving Chainlink oracles.
+- [Berachain Oracle Bugs](https://x.com/blckhv/status/1928502350999687388?t=sNBNAMdhhSp9TkSGLlvpzg&s=19) — by blckhv  
+  Twitter thread detailing bugs found in Berachain's oracle implementation.
 
 ## 6. **Proxies & Upgradability**
 - [Upgradable Patterns](https://www.youtube.com/watch?v=Zjj5lDmHlq8) — by Daniel Von Fange  
