@@ -1,12 +1,12 @@
 # Awesome Audits Checklists
 
 ## 1. **General Smart Contract Security & Audit Checklists**
+- [Solodit Checklist](https://solodit.cyfrin.io/checklist) — by Cyfrin  
+  An actionable checklist for auditing and reviewing Solidity smart contracts.
 - [Ultimate Security Checklist](https://www.beirao.xyz/blog/Security-checklist) — by Beirao  
   A comprehensive checklist covering all essential aspects of smart contract security.
 - [Solcurity](https://github.com/transmissions11/solcurity) — by transmissions11  
   A curated list of security resources and best practices for Solidity developers.
-- [Solodit Checklist](https://solodit.cyfrin.io/checklist) — by Cyfrin  
-  An actionable checklist for auditing and reviewing Solidity smart contracts.
 - [General Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) — by Tamjid  
   A general-purpose checklist for smart contract audits, covering common vulnerabilities.
 - [SCSVS - Smart Contract Security Verification Standard](https://github.com/ComposableSecurity/SCSVS) — by Composable Security  
@@ -17,8 +17,8 @@
   A categorized list of vulnerabilities found in Ethereum smart contracts.
 - [Smart Contract Security (Rareskills)](https://www.rareskills.io/post/smart-contract-security) — by Rareskills  
   An in-depth article on smart contract security concepts and best practices.
-- [Auditors Checklist](https://github.com/Cyfrin/audit-checklist) — by Cyfrin  
-  A practical checklist tailored for smart contract auditors.
+- [Auditors Checklist](https://github.com/Cyfrin/audit-checklist?tab=readme-ov-file#acknowledgements) — by Cyfrin  
+  Curated list of Checklists of different auditors.
 - [Anti-Hack Checklist](https://github.com/Quillhash/DeFi-anti-hack-checklist) — by Quillhash  
   A checklist focused on preventing hacks in DeFi protocols.
 - [Bug Report Submission Checklist](https://immunefisupport.zendesk.com/hc/en-us/articles/15427337783057-Bug-Report-Submission-Checklist) — by Immunefi  
@@ -53,8 +53,6 @@
 ### General Token Security
 - [Signatures (Coinmonks)](https://medium.com/coinmonks/ethereum-signatures-for-hackers-and-auditors-101-4da766cd6344) — by Coinmonks (Medium)  
   A beginner-friendly guide to Ethereum signatures and their security implications.
-
----
 
 ## 3. **DeFi Protocol Types**
 ### AMMs (Automated Market Makers)
@@ -91,17 +89,14 @@
 - [Precision Loss Errors](https://dacian.me/precision-loss-errors) — by Dacian  
   Discussion of errors caused by precision loss in smart contracts.
 
----
-
 ## 4. **Oracles**
-- [Berachain Oracle Bugs](https://x.com/blckhv/status/1928502350999687388?t=sNBNAMdhhSp9TkSGLlvpzg&s=19) — by blckhv (Twitter)  
-  Twitter thread detailing bugs found in Berachain's oracle implementation.
 - [Chainlink Oracle Attacks](https://medium.com/cyfrin/chainlink-oracle-defi-attacks-93b6cb6541bf) — by Cyfrin  
   Article on past attacks and vulnerabilities involving Chainlink oracles.
+- [Berachain Oracle Bugs](https://x.com/blckhv/status/1928502350999687388?t=sNBNAMdhhSp9TkSGLlvpzg&s=19) — by blckhv (Twitter)  
+  Twitter thread detailing bugs found in Berachain's oracle implementation.
+
 - [Chainlink VRF Security](https://docs.chain.link/vrf/v2/security) — by Chainlink  
   Official documentation on the security model of Chainlink's Verifiable Random Function.
-
----
 
 ## 5. **Bridges, Interoperability & Multichain**
 - [Interoperability Protocol Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist) — by Windhustler  
@@ -168,16 +163,12 @@
 ### Ton
 - [Ton Not-So-Smart Contracts](https://secure-contracts.com/not-so-smart-contracts/ton/index.html) — by Secure Contracts  
   Security vulnerabilities in TON smart contracts.
-
----
+  - [Blast Integration Guide](https://nirlin-blast-bugs.notion.site/Blast-Integration-Bugs-Guide-131344ccd05642bdbb49d2026c3227cf) — by Nirlin  
+  A guide to common bugs and integration pitfalls in Blast.
 
 ## 11. **Other/Uncategorized**
-- [Blast Integration Bugs Guide](https://nirlin-blast-bugs.notion.site/Blast-Integration-Bugs-Guide-131344ccd05642bdbb49d2026c3227cf) — by Nirlin  
-  A guide to common bugs and integration pitfalls in Blast.
 - [2020 Smart Contract Security Paper (arXiv)](https://arxiv.org/pdf/2008.04761) — by Nicola Atzei, Massimo Bartoletti, Tiziana Cimoli  
   Academic paper reviewing the state of smart contract security as of 2020.
-
----
 
 ## 12. **Miscellaneous/General Security Threads**
 - [General Security Thread 1](https://x.com/0xOwenThurm/status/1664390438822789122) — by Owen Thurm (Twitter)  
