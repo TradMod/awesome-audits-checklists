@@ -129,7 +129,7 @@
   Best practices for securing Solana smart contracts.
 - [Solana Not-So-Smart Contracts](https://secure-contracts.com/not-so-smart-contracts/solana/index.html) — by ToB Secure Contracts  
   Examples of security issues in Solana contracts.
-- [Solana Advanced Security](https://substack.com/home/post/p-164534668) — by Nirlin 
+- [Solana Advanced Security](https://substack.com/home/post/p-164534668) — by Nirlin  
   Advanced security topics for Solana developers.
 ### Algorand
 - [Algorand Not-So-Smart Contracts](https://secure-contracts.com/not-so-smart-contracts/algorand/index.html) — by ToB Secure Contracts  
