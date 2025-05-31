@@ -163,6 +163,5 @@
 - [SWC Registry](https://swcregistry.io) — by SWC Registry  
   A comprehensive database of known smart contract vulnerabilities, each with a unique identifier and detailed description.
 
-## Contributing
+## Contribution
 If you'd like to contribute reach out on [X](https://x.com/TheTradMod), or Simply create a PR anon :)
-
