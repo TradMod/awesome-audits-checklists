@@ -153,7 +153,7 @@
 - [Near Smart Contracts Checklist](https://docs.near.org/smart-contracts/security/checklist) — Near Docs  
   Near smart contracts security considerations list 
 
-## 11 **Uniswap V4 Hooks Integration**
+## 11. **Uniswap V4 Hooks Integration**
 - [Uniswap V4 Hooks Security Talk](https://www.youtube.com/watch?v=Fbxsv8rxHZw) — by Damian (Composable Security)  
   A detailed presentation on Uniswap V4’s architecture and the main security threats and best practices when building custom hooks.
 - [Uniswap V4 Hooks Security Deep Dive](https://www.youtube.com/watch?v=4o8yGcq6tfM) — by Jota Carpanelli (OpenZeppelin) 
