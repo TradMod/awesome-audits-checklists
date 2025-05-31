@@ -115,6 +115,8 @@
   DevSecOps best practices and standards for Solidity development.
 
 ## 10. **Platforms/Chains Specific Security**
+- [Multichain Auditor](https://github.com/0xJuancito/multichain-auditor) — by 0xJuancito  
+  A repository with resources and tools for auditing multichain protocols.
 ### Solana
 - [Solana Best Practices](https://github.com/slowmist/solana-smart-contract-security-best-practices) — by Slowmist  
   Best practices for securing Solana smart contracts.
