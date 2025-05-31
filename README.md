@@ -114,7 +114,7 @@
 - [Solidity DevSecOps Standard](https://github.com/0xsomnus/Solidity-DevSecOps-Standard) — by 0xsomnus  
   DevSecOps best practices and standards for Solidity development.
 
-## 10. **Platform-Specific Security**
+## 10. **Platforms/Chains Specific Security**
 ### Solana
 - [Solana Best Practices](https://github.com/slowmist/solana-smart-contract-security-best-practices) — by Slowmist  
   Best practices for securing Solana smart contracts.
