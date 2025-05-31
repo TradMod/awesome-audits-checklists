@@ -160,9 +160,9 @@
   A technical walkthrough of Uniswap V4 hooks, including how to build, test, and secure custom hooks.
 - [Auditing Uniswap V4 Hooks](https://hacken.io/discover/auditing-uniswap-v4-hooks/) — by Hacken  
   An article outlining the main audit considerations, attack vectors, and recommendations for Uniswap V4 hook integrations.
-- [Uniswap V4 Security Considerations](https://www.quillaudits.com/blog/web3-security/uniswap-v4-security-considerations) — by QuillAudits  
+- [Uniswap V4 Hooks Security Considerations](https://www.quillaudits.com/blog/web3-security/uniswap-v4-security-considerations) — by QuillAudits  
   A breakdown of the new security challenges and mitigation strategies for Uniswap V4 and its hooks.
-- [Uniswap V4 Hooks Security Considerations (CertiK)](https://www.certik.com/resources/blog/uniswap-v4-hooks-security-considerations) — by CertiK  
+- [Uniswap V4 Hooks Integration Security Considerations](https://www.certik.com/resources/blog/uniswap-v4-hooks-security-considerations) — by CertiK  
   A blog post analyzing the unique security risks introduced by hooks in Uniswap V4 and how to address them.
 
 ## 12. **Other/Uncategorized**
