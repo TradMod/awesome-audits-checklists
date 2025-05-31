@@ -173,3 +173,6 @@
 ## 12. **Miscellaneous/General Security Threads**
 - [General Security Thread 1](https://x.com/0xOwenThurm/status/1664390438822789122) — by Owen Thurm (Twitter)  
   Twitter thread with general insights and tips on smart contract security.
+
+## Contributing
+If you'd like to contribute reach out on [X](https://x.com/TheTradMod), or Simply create a PR anon :)
