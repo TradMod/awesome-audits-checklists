@@ -106,8 +106,6 @@
 - [Cross-chain Bridge Security Checklist](https://github.com/spearbit/portfolio/blob/master/content/bridges/BridgeSecurityChecklist.md) — by Spearbit  
   Checklist for auditing the security of cross-chain bridges.
 
----
-
 ## 6. **Proxies & Upgradability**
 - [Upgradable Patterns (YouTube)](https://www.youtube.com/watch?v=Zjj5lDmHlq8) — by Smart Contract Programmer  
   Video explaining common patterns for upgradable smart contracts.
@@ -116,21 +114,15 @@
 - [UUPS Proxy Security](https://www.rareskills.io/post/uups-proxy) — by Rareskills  
   Article analyzing the security of UUPS proxy pattern in Solidity.
 
----
-
 ## 7. **Signature & Replay Attacks**
 - [Signature Replay Attacks (Dacian)](https://dacian.me/signature-replay-attacks#cmb200fic000009jrbs2y2cnw) — by Dacian  
   In-depth explanation of signature replay attacks in smart contracts.
 - [Signature Replay Attacks (General)](https://dacian.me/signature-replay-attacks) — by Dacian  
   General overview of replay attack vectors and prevention.
 
----
-
 ## 8. **Governance**
 - [DAO Governance Attacks](https://dacian.me/dao-governance-defi-attacks) — by Dacian  
   Analysis of attacks and vulnerabilities in DAO governance mechanisms.
-
----
 
 ## 9. **Low-level Solidity & DevSecOps**
 - [Solidity Inline Assembly Vulnerabilities](https://dacian.me/solidity-inline-assembly-vulnerabilities) — by Dacian  
@@ -138,15 +130,13 @@
 - [Solidity DevSecOps Standard](https://github.com/0xsomnus/Solidity-DevSecOps-Standard) — by 0xsomnus  
   DevSecOps best practices and standards for Solidity development.
 
----
-
 ## 10. **Platform-Specific Security**
 ### Solana
 - [Solana Best Practices (Slowmist)](https://github.com/slowmist/solana-smart-contract-security-best-practices) — by Slowmist  
   Best practices for securing Solana smart contracts.
 - [Solana Not-So-Smart Contracts](https://secure-contracts.com/not-so-smart-contracts/solana/index.html) — by Secure Contracts  
   Examples of security issues in Solana contracts.
-- [Solana Advanced Security](https://substack.com/home/post/p-164534668) — by Substack Author (Anonymous)  
+- [Solana Advanced Security](https://substack.com/home/post/p-164534668) — by Nirlin 
   Advanced security topics for Solana developers.
 ### Algorand
 - [Algorand Not-So-Smart Contracts](https://secure-contracts.com/not-so-smart-contracts/algorand/index.html) — by Secure Contracts  
