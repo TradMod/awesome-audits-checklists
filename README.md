@@ -29,6 +29,11 @@
   Tips and steps to prepare your project for a successful smart contract audit.
 - [Development Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit?tab=readme-ov-file) — by Nascent  
   A toolkit of scripts, resources and checklists for enhancing security during smart contract development.
+- [Web3Sec General Audit Checklist](https://www.web3sec.news/audits/checklist) — by Web3Sec  
+  A general-purpose checklist for auditing smart contracts, covering standard security practices and common vulnerabilities.
+- [100+ Point Audit Checklist](https://medium.com/better-programming/the-ultimate-100-point-checklist-before-sending-your-smart-contract-for-audit-af9a5b5d95d0) — Jeffery Scholez
+  An extensive, practical checklist of over 100 items to review before sending your smart contract for audit.
+
 
 
 ## 2. **ERC Standards & Edge Cases**
@@ -55,7 +60,7 @@
 
 ## 3. **Bridges, Interoperability & Multichain**
 - [Interoperability Protocol Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist) — by Windhustler  
-  A checklist for securing interoperability protocols and cross-chain solutions.
+  A checklist for securing interoperability protocols LyerZero, CCIP, Wormhole etc and cross-chain solutions.
 - [Multichain Auditor](https://github.com/0xJuancito/multichain-auditor) — by 0xJuancito  
   A repository with resources and tools for auditing multichain protocols.
 - [Cross-chain Bridge Security Checklist](https://github.com/spearbit/portfolio/blob/master/content/bridges/BridgeSecurityChecklist.md) — by Spearbit  
@@ -65,6 +70,8 @@
 ## 4. **DeFi Protocols**
 - [AMM Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/amm.md) — by Decurity  
   A checklist for auditing AMM smart contracts.
+- [AMM Security & Audit Insights](https://mirror.xyz/millietez.eth/ixD3xe-Q7JQowYcIFmGKxkPae_C5tCN9kWn9jXUhnKk) — by Millie Tez
+  An in-depth article on security considerations and audit tips for Automated Market Maker protocols.
 - [CDP Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/cdp.md) — by Decurity  
   Checklist for auditing Collateralized Debt Positions.
 - [LSD Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/lsd.md) — by Decurity  
@@ -144,10 +151,15 @@
   A guide to common bugs and integration pitfalls in Blast.
 
 ## 11. **Other/Uncategorized**
+- [Solidity Gas Optimizations](https://github.com/TechnoGeek01/solidity-gas-optimizations) — by TechnoGeek01  
+  A curated list of gas-saving techniques and best practices for Solidity smart contract development.
 - [2020 Smart Contract Security Paper](https://arxiv.org/pdf/2008.04761) — by Nicola arXiv  
   Academic paper reviewing the state of smart contract security as of 2020.
 - [Chainlink VRF Security](https://docs.chain.link/vrf/v2/security) — by Chainlink  
   Official documentation on the security model of Chainlink's Verifiable Random Function.
+- [SWC Registry](https://swcregistry.io) — by SWC Registry  
+  A comprehensive database of known smart contract vulnerabilities, each with a unique identifier and detailed description.
 
 ## Contributing
 If you'd like to contribute reach out on [X](https://x.com/TheTradMod), or Simply create a PR anon :)
+
