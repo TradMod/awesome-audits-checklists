@@ -139,6 +139,7 @@
 ### Ton
 - [Ton Not-So-Smart Contracts](https://secure-contracts.com/not-so-smart-contracts/ton/index.html) — by ToB Secure Contracts  
   Security vulnerabilities in TON smart contracts.
+### Blast
 - [Blast Integration Guide](https://nirlin-blast-bugs.notion.site/Blast-Integration-Bugs-Guide-131344ccd05642bdbb49d2026c3227cf) — by Nirlin  
   A guide to common bugs and integration pitfalls in Blast.
 
