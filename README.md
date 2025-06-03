@@ -157,6 +157,8 @@
   Near smart contracts security considerations list 
 
 ## 11. **Protocols Integration Security**
+- [Across V3 Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/Across.md) — by TradMod (ABDul Rehman)  
+  A detailed checklist for auditing the security of Across V3 cross-chain messaging protocol integrations.
 - [LayerZero V2 Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/LayerZeroV2.md) — by windhustler  
   A detailed checklist for auditing the security of LayerZero V2 cross-chain messaging protocol integrations.
 - [Wormhole Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/Wormhole.md) — by windhustler  
