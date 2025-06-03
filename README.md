@@ -5,36 +5,22 @@
   An actionable checklist for auditing and reviewing Solidity smart contracts.
 - [Ultimate Security Checklist](https://www.beirao.xyz/blog/Security-checklist) — by Beirao  
   A comprehensive checklist covering all essential aspects of smart contract security.
-- [Solcurity](https://github.com/transmissions11/solcurity) — by transmissions11  
-  A curated list of security resources and best practices for Solidity developers.
 - [General Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) — by Tamjid  
   A general-purpose checklist for smart contract audits, covering common vulnerabilities.
 - [SCSVS - Smart Contract Security Verification Standard](https://github.com/ComposableSecurity/SCSVS) — by Composable Security  
   A standardized framework for verifying the security of smart contracts.
-- [Solidity Attack Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors) — by Quillhash  
-  A collection of known attack vectors specific to Solidity smart contracts.
-- [Smart Contract Vulnerabilities](https://github.com/kadenzipfel/smart-contract-vulnerabilities) — by Kaden Zipfel  
-  A categorized list of vulnerabilities found in Ethereum smart contracts.
-- [Smart Contract Security (Rareskills)](https://www.rareskills.io/post/smart-contract-security) — by Rareskills  
+- [Smart Contract Security](https://www.rareskills.io/post/smart-contract-security) — by Rareskills  
   An in-depth article on smart contract security concepts and best practices.
 - [Auditors Checklist](https://github.com/Cyfrin/audit-checklist?tab=readme-ov-file#acknowledgements) — by Cyfrin  
   Curated list of audit checklists of different auditors.
-- [General Security Thread](https://x.com/0xOwenThurm/status/1664390438822789122) — by Owen Thurm
-  Twitter thread with general insights and tips on smart contract security.
-- [Anti-Hack Checklist](https://github.com/Quillhash/DeFi-anti-hack-checklist) — by Quillhash  
-  A checklist focused on preventing hacks in DeFi protocols.
-- [Bug Report Submission Checklist](https://immunefisupport.zendesk.com/hc/en-us/articles/15427337783057-Bug-Report-Submission-Checklist) — by Immunefi  
-  Guidelines for submitting effective and complete bug reports.
 - [Pre-Audit Preparation](https://composable-security.com/blog/smart-contract-audit-the-best-tips-on-how-to-be-prepared-better/) — by Composable Security  
   Tips and steps to prepare your project for a successful smart contract audit.
 - [Development Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit?tab=readme-ov-file) — by Nascent  
   A toolkit of scripts, resources and checklists for enhancing security during smart contract development.
-- [Web3Sec General Audit Checklist](https://www.web3sec.news/audits/checklist) — by Web3Sec  
-  A general-purpose checklist for auditing smart contracts, covering standard security practices and common vulnerabilities.
-- [100+ Point Audit Checklist](https://medium.com/better-programming/the-ultimate-100-point-checklist-before-sending-your-smart-contract-for-audit-af9a5b5d95d0) — Jeffery Scholez
-  An extensive, practical checklist of over 100 items to review before sending your smart contract for audit.
-
-
+- [Bug Report Submission Checklist](https://immunefisupport.zendesk.com/hc/en-us/articles/15427337783057-Bug-Report-Submission-Checklist) — by Immunefi  
+  Guidelines for submitting effective and complete bug reports.
+- [Anti-Hack Checklist](https://github.com/Quillhash/DeFi-anti-hack-checklist) — by Quillhash  
+  A checklist focused on preventing hacks in DeFi protocols.
 
 ## 2. **ERC Standards & Edge Cases**
 ### ERC20
@@ -48,7 +34,7 @@
 ### ERC4626
 - [ERC4626 Security Checklist](https://github.com/Solthodox/erc4626-checklist) — by Solthodox  
   A checklist for auditing ERC4626 (tokenized vault) contracts.
-- [ERC4626 Rounding Issues](https://x.com/sammyaudits/status/1831615410573136327) — by Sammy Audits 
+- [ERC4626 Rounding Issues](https://x.com/sammyaudits/status/1831615410573136327) — by Sammy 
   A Twitter thread highlighting rounding errors in ERC4626 implementations.
 ### ERC4337 & Account Abstraction
 - [ERC4337 Security Checklist](https://github.com/aviggiano/security/blob/main/audit-checklists/ERC-4337.md) — by Aviggiano  
@@ -65,7 +51,6 @@
   A repository with resources and tools for auditing multichain protocols.
 - [Cross-chain Bridge Security Checklist](https://github.com/spearbit/portfolio/blob/master/content/bridges/BridgeSecurityChecklist.md) — by Spearbit  
   Checklist for auditing the security of cross-chain bridges.
-
 
 ## 4. **DeFi Protocols**
 - [AMM Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/amm.md) — by Decurity  
@@ -89,11 +74,28 @@
 - [Precision Loss Errors](https://dacian.me/precision-loss-errors) — by Dacian  
   Discussion of errors caused by precision loss in smart contracts.
 
-## 5. **Oracles**
-- [Chainlink Oracle Attacks](https://medium.com/cyfrin/chainlink-oracle-defi-attacks-93b6cb6541bf) — by Cyfrin  
-  Article on past attacks and vulnerabilities involving Chainlink oracles.
+## 5. **Protocols Integration Security**
+- [Across V3 Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/Across.md) — by TradMod (ABDul Rehman)  
+  A detailed checklist for auditing the security of Across V3 cross-chain messaging protocol integrations.
+- [LayerZero V2 Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/LayerZeroV2.md) — by windhustler  
+  A detailed checklist for auditing the security of LayerZero V2 cross-chain messaging protocol integrations.
+- [Wormhole Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/Wormhole.md) — by windhustler  
+  A comprehensive audit checklist for Wormhole bridge integrations, highlighting key risks and best practices.
+- [Chainlink CCIP Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/Chainlink-CCIP.md) — by windhustler  
+  A thorough checklist for reviewing and securing Chainlink CCIP (Cross-Chain Interoperability Protocol) implementations.
 - [Berachain Oracle Bugs](https://x.com/blckhv/status/1928502350999687388?t=sNBNAMdhhSp9TkSGLlvpzg&s=19) — by blckhv  
   Twitter thread detailing bugs found in Berachain's oracle implementation.
+### UniswapV4 Hooks Integration Guides
+- [Uniswap V4 Hooks Security Talk](https://www.youtube.com/watch?v=Fbxsv8rxHZw) — by Damian (Composable Security)  
+  A detailed presentation on Uniswap V4’s architecture and the main security threats and best practices when building custom hooks.
+- [Uniswap V4 Hooks Security Deep Dive](https://www.youtube.com/watch?v=4o8yGcq6tfM) — by Jota Carpanelli (OpenZeppelin) 
+  A technical walkthrough of Uniswap V4 hooks, including how to build, test, and secure custom hooks.
+- [Auditing Uniswap V4 Hooks](https://hacken.io/discover/auditing-uniswap-v4-hooks/) — by Hacken  
+  An article outlining the main audit considerations, attack vectors, and recommendations for Uniswap V4 hook integrations.
+- [Uniswap V4 Hooks Security Considerations](https://www.quillaudits.com/blog/web3-security/uniswap-v4-security-considerations) — by QuillAudits  
+  A breakdown of the new security challenges and mitigation strategies for Uniswap V4 and its hooks.
+- [Uniswap V4 Hooks Integration Security Considerations](https://www.certik.com/resources/blog/uniswap-v4-hooks-security-considerations) — by CertiK  
+  A blog post analyzing the unique security risks introduced by hooks in Uniswap V4 and how to address them.
 
 ## 6. **Proxies & Upgradability**
 - [Upgradable Patterns](https://www.youtube.com/watch?v=Zjj5lDmHlq8) — by Daniel Von Fange  
@@ -115,13 +117,7 @@
 - [DAO Governance Attacks](https://dacian.me/dao-governance-defi-attacks) — by Dacian  
   Analysis of attacks and vulnerabilities in DAO governance mechanisms.
 
-## 9. **Low-level Solidity & DevSecOps**
-- [Solidity Inline Assembly Vulnerabilities](https://dacian.me/solidity-inline-assembly-vulnerabilities) — by Dacian  
-  Security risks and pitfalls when using inline assembly in Solidity.
-- [Solidity DevSecOps Standard](https://github.com/0xsomnus/Solidity-DevSecOps-Standard) — by 0xsomnus  
-  DevSecOps best practices and standards for Solidity development.
-
-## 10. **Platforms/Chains Specific Security**
+## 9. **Platforms/Chains Specific Security**
 - [Multichain Auditor](https://github.com/0xJuancito/multichain-auditor) — by 0xJuancito  
   A repository with resources and tools for auditing multichain protocols.
 ### Solana
@@ -156,36 +152,21 @@
 - [Near Smart Contracts Checklist](https://docs.near.org/smart-contracts/security/checklist) — Near Docs  
   Near smart contracts security considerations list 
 
-## 11. **Protocols Integration Security**
-- [Across V3 Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/Across.md) — by TradMod (ABDul Rehman)  
-  A detailed checklist for auditing the security of Across V3 cross-chain messaging protocol integrations.
-- [LayerZero V2 Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/LayerZeroV2.md) — by windhustler  
-  A detailed checklist for auditing the security of LayerZero V2 cross-chain messaging protocol integrations.
-- [Wormhole Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/Wormhole.md) — by windhustler  
-  A comprehensive audit checklist for Wormhole bridge integrations, highlighting key risks and best practices.
-- [Chainlink CCIP Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/Chainlink-CCIP.md) — by windhustler  
-  A thorough checklist for reviewing and securing Chainlink CCIP (Cross-Chain Interoperability Protocol) implementations.
-### UniswapV4 Hooks Integration Guides
-- [Uniswap V4 Hooks Security Talk](https://www.youtube.com/watch?v=Fbxsv8rxHZw) — by Damian (Composable Security)  
-  A detailed presentation on Uniswap V4’s architecture and the main security threats and best practices when building custom hooks.
-- [Uniswap V4 Hooks Security Deep Dive](https://www.youtube.com/watch?v=4o8yGcq6tfM) — by Jota Carpanelli (OpenZeppelin) 
-  A technical walkthrough of Uniswap V4 hooks, including how to build, test, and secure custom hooks.
-- [Auditing Uniswap V4 Hooks](https://hacken.io/discover/auditing-uniswap-v4-hooks/) — by Hacken  
-  An article outlining the main audit considerations, attack vectors, and recommendations for Uniswap V4 hook integrations.
-- [Uniswap V4 Hooks Security Considerations](https://www.quillaudits.com/blog/web3-security/uniswap-v4-security-considerations) — by QuillAudits  
-  A breakdown of the new security challenges and mitigation strategies for Uniswap V4 and its hooks.
-- [Uniswap V4 Hooks Integration Security Considerations](https://www.certik.com/resources/blog/uniswap-v4-hooks-security-considerations) — by CertiK  
-  A blog post analyzing the unique security risks introduced by hooks in Uniswap V4 and how to address them.
-
-## 12. **Other/Uncategorized**
+## 10. **Other/Uncategorized**
 - [Solidity Gas Optimizations](https://github.com/TechnoGeek01/solidity-gas-optimizations) — by TechnoGeek01  
   A curated list of gas-saving techniques and best practices for Solidity smart contract development.
 - [2020 Smart Contract Security Paper](https://arxiv.org/pdf/2008.04761) — by Nicola arXiv  
   Academic paper reviewing the state of smart contract security as of 2020.
+- [Chainlink Oracle Attacks](https://medium.com/cyfrin/chainlink-oracle-defi-attacks-93b6cb6541bf) — by Cyfrin  
+  Article on past attacks and vulnerabilities involving Chainlink oracles.
 - [Chainlink VRF Security](https://docs.chain.link/vrf/v2/security) — by Chainlink  
   Official documentation on the security model of Chainlink's Verifiable Random Function.
 - [SWC Registry](https://swcregistry.io) — by SWC Registry  
   A comprehensive database of known smart contract vulnerabilities, each with a unique identifier and detailed description.
+- [Solidity Inline Assembly Vulnerabilities](https://dacian.me/solidity-inline-assembly-vulnerabilities) — by Dacian  
+  Security risks and pitfalls when using inline assembly in Solidity.
+- [Solidity DevSecOps Standard](https://github.com/0xsomnus/Solidity-DevSecOps-Standard) — by 0xsomnus  
+  DevSecOps best practices and standards for Solidity development.
 
 ## Contribution
 If you'd like to contribute reach out on [X](https://x.com/TheTradMod), or Simply create a PR anon :)
