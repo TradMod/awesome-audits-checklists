@@ -1,6 +1,18 @@
 # Awesome Audits Checklists
 
-## 1. **General Smart Contract Security & Audit Checklists**
+- [General Smart Contract Security & Audit Checklists](#1-general-smart-contracts-security--audit-checklists)
+- [ERC Standards & Edge Cases](#2-erc-standards--edge-cases)
+- [Bridges, Interoperability & Multichain](#3-bridges-interoperability--multichain)
+- [DeFi Protocols](#4-defi-protocols)
+- [Protocols Integration Security](#5-protocols-integration-security)
+- [Proxies & Upgradability](#6-proxies--upgradability)
+- [Signature Attacks](#7-signature-attacks)
+- [Governance](#8-governance)
+- [Chains Specific Security](#9-chains-specific-security)
+- [Other/Uncategorized](#10-otheruncategorized)
+- [Contribution](#contribution)
+
+## 1. **General Smart Contracts Security & Audit Checklists**
 - [Solodit Checklist](https://solodit.cyfrin.io/checklist) — by Cyfrin  
   An actionable checklist for auditing and reviewing Solidity smart contracts.
 - [Ultimate Security Checklist](https://www.beirao.xyz/blog/Security-checklist) — by Beirao  
@@ -93,7 +105,7 @@
   Secruity Checklist for for Stargate V2 contracts integrations.
 ### UniswapV4 Hooks Integration Guides
 - [Uniswap V4 Hooks Security Talk](https://www.youtube.com/watch?v=Fbxsv8rxHZw) — by Damian (Composable Security)  
-  A detailed presentation on Uniswap V4’s architecture and the main security threats and best practices when building custom hooks.
+  A detailed presentation on Uniswap V4's architecture and the main security threats and best practices when building custom hooks.
 - [Uniswap V4 Hooks Security Deep Dive](https://www.youtube.com/watch?v=4o8yGcq6tfM) — by Jota Carpanelli (OpenZeppelin) 
   A technical walkthrough of Uniswap V4 hooks, including how to build, test, and secure custom hooks.
 - [Auditing Uniswap V4 Hooks](https://hacken.io/discover/auditing-uniswap-v4-hooks/) — by Hacken  
@@ -123,7 +135,7 @@
 - [DAO Governance Attacks](https://dacian.me/dao-governance-defi-attacks) — by Dacian  
   Analysis of attacks and vulnerabilities in DAO governance mechanisms.
 
-## 9. **Platforms/Chains Specific Security**
+## 9. **Chains Specific Security**
 - [Multichain Auditor](https://github.com/0xJuancito/multichain-auditor) — by 0xJuancito  
   A repository with resources and tools for auditing multichain protocols.
 ### Solana
