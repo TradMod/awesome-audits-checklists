@@ -39,14 +39,14 @@
 - [Weird ERC20 Implementations](https://github.com/d-xo/weird-erc20) — by d-xo  
   A list of unusual or non-standard ERC20 token implementations.
 ### ERC721
-- [Weird ERC721 Implementations](https://github.com/abarbatei/weird-erc721) — by ABA 
+- [Weird ERC721 Implementations](https://github.com/abarbatei/weird-erc721) — by ABA  
   Examples of non-standard and quirky ERC721 contracts.
-- [ERC721 Security Thread](https://x.com/Olympix_ai/status/1757018050291761295) — by Olympix
+- [ERC721 Security Thread](https://x.com/Olympix_ai/status/1757018050291761295) — by Olympix  
   A Twitter thread discussing ERC721-specific security issues.
 ### ERC4626
 - [ERC4626 Security Checklist](https://github.com/Solthodox/erc4626-checklist) — by Solthodox  
   A checklist for auditing ERC4626 (tokenized vault) contracts.
-- [ERC4626 Rounding Issues](https://x.com/sammyaudits/status/1831615410573136327) — by Sammy 
+- [ERC4626 Rounding Issues](https://x.com/sammyaudits/status/1831615410573136327) — by Sammy  
   A Twitter thread highlighting rounding errors in ERC4626 implementations.
 ### ERC4337 & Account Abstraction
 - [ERC4337 Security Checklist](https://github.com/aviggiano/security/blob/main/audit-checklists/ERC-4337.md) — by Aviggiano  
@@ -106,7 +106,7 @@
 ### UniswapV4 Hooks Integration Guides
 - [Uniswap V4 Hooks Security Talk](https://www.youtube.com/watch?v=Fbxsv8rxHZw) — by Damian (Composable Security)  
   A detailed presentation on Uniswap V4's architecture and the main security threats and best practices when building custom hooks.
-- [Uniswap V4 Hooks Security Deep Dive](https://www.youtube.com/watch?v=4o8yGcq6tfM) — by Jota Carpanelli (OpenZeppelin) 
+- [Uniswap V4 Hooks Security Deep Dive](https://www.youtube.com/watch?v=4o8yGcq6tfM) — by Jota Carpanelli (OpenZeppelin)  
   A technical walkthrough of Uniswap V4 hooks, including how to build, test, and secure custom hooks.
 - [Auditing Uniswap V4 Hooks](https://hacken.io/discover/auditing-uniswap-v4-hooks/) — by Hacken  
   An article outlining the main audit considerations, attack vectors, and recommendations for Uniswap V4 hook integrations.
@@ -146,7 +146,7 @@
 - [Solana Advanced Security](https://substack.com/home/post/p-164534668) — by Nirlin  
   Advanced security topics for Solana developers.
 ### Arbitrum
-- [Arbitrum Integration Bugs](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/Arbitrum.md) — by Windhustler 
+- [Arbitrum Integration Bugs](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/Arbitrum.md) — by Windhustler  
   Arbitrum Security pitfalls and integration guide.
 ### Algorand
 - [Algorand Not-So-Smart Contracts](https://secure-contracts.com/not-so-smart-contracts/algorand/index.html) — by ToB Secure Contracts  
