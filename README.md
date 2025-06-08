@@ -75,6 +75,8 @@
   Discussion of errors caused by precision loss in smart contracts.
 
 ## 5. **Protocols Integration Security**
+- [External Integrations: The Hidden Risk in Smart Contracts](https://x.com/0xCharlesWang/status/1931486275707830730) - by CharlesWang
+- General External Integration Best practices and security risks.
 - [Across V3 Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/Across.md) — by TradMod (ABDul Rehman)  
   A detailed checklist for auditing the security of Across V3 cross-chain messaging protocol integrations.
 - [LayerZero V2 Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/LayerZeroV2.md) — by windhustler  
