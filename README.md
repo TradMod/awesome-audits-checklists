@@ -19,7 +19,7 @@
   A toolkit of scripts, resources and checklists for enhancing security during smart contract development.
 - [Bug Report Submission Checklist](https://immunefisupport.zendesk.com/hc/en-us/articles/15427337783057-Bug-Report-Submission-Checklist) — by Immunefi  
   Guidelines for submitting effective and complete bug reports.
-- [Anti-Hack Checklist](https://github.com/Quillhash/DeFi-anti-hack-checklist) — by Quillhash  
+- [Anti-Hack Checklist](https://github.com/Quillhash/DeFi-anti-hack-checklist) — by QuillAudits  
   A checklist focused on preventing hacks in DeFi protocols.
 
 ## 2. **ERC Standards & Edge Cases**
@@ -61,6 +61,8 @@
   Checklist for auditing Collateralized Debt Positions.
 - [LSD Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/lsd.md) — by Decurity  
   Checklist for auditing LSD protocols.
+- [Guidelines for Auditing Staking Protocols](https://defihacklabs.substack.com/p/solidity-security-lesson-3-guidelines) - QuillAudits  
+- Useful reference for auditing staking protocols and can help you identify potential bugs.
 - [LSDs Best Practices](https://mixbytes.io/blog/liquid#rec621210033) — by MixBytes  
   Security analysis and best practices for liquid staking derivatives.
 - [Liquid Restaking Tokens](https://blog.sigmaprime.io/liquid-restaking.html) — by Sigma Prime  
@@ -87,6 +89,8 @@
   A thorough checklist for reviewing and securing Chainlink CCIP (Cross-Chain Interoperability Protocol) implementations.
 - [Berachain Oracle Bugs](https://x.com/blckhv/status/1928502350999687388?t=sNBNAMdhhSp9TkSGLlvpzg&s=19) — by blckhv  
   Twitter thread detailing bugs found in Berachain's oracle implementation.
+- [Stargate v2 Integration Checklist](https://mirror.xyz/0xaeDAA951e7fbe1031E3553a7a8b1d8A89b132d7b/WfZ1ewSlkbErd-swiBV0AGbQ0xEWdnq6nCzDNStDUKI) — by EngimaDark/Windhustler  
+  Secruity Checklist for for Stargate V2 contracts integrations.
 ### UniswapV4 Hooks Integration Guides
 - [Uniswap V4 Hooks Security Talk](https://www.youtube.com/watch?v=Fbxsv8rxHZw) — by Damian (Composable Security)  
   A detailed presentation on Uniswap V4’s architecture and the main security threats and best practices when building custom hooks.
@@ -147,6 +151,11 @@
 ### Ton
 - [Ton Not-So-Smart Contracts](https://secure-contracts.com/not-so-smart-contracts/ton/index.html) — by ToB Secure Contracts  
   Security vulnerabilities in TON smart contracts.
+- [Ton Security Checklists](https://github.com/PositiveSecurity/ton-audit-guide) — by PositiveSecurity  
+  Checklist for Auditing TON Smart Contracts
+### Tron
+- [Checklist for Auditing Tron Projects](https://github.com/PositiveSecurity/tron-audit-guide) — by PositiveSecurity  
+  A guide to common bugs and integration pitfalls in Tron Contracts.
 ### Blast
 - [Blast Integration Guide](https://nirlin-blast-bugs.notion.site/Blast-Integration-Bugs-Guide-131344ccd05642bdbb49d2026c3227cf) — by Nirlin  
   A guide to common bugs and integration pitfalls in Blast.
