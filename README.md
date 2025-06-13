@@ -141,6 +141,8 @@
 ### Solana
 - [Solana Best Practices](https://github.com/slowmist/solana-smart-contract-security-best-practices) — by Slowmist  
   Best practices for securing Solana smart contracts.
+- [SPL Token-2022](https://neodyme.io/en/blog/token-2022/#tldr) - by Neodyme  
+  Potential security pitfalls and best practices for secure implementation of the new Solana SPL token extensions. 
 - [Solana Not-So-Smart Contracts](https://secure-contracts.com/not-so-smart-contracts/solana/index.html) — by ToB Secure Contracts  
   Examples of security issues in Solana contracts.
 - [Solana Advanced Security](https://substack.com/home/post/p-164534668) — by Nirlin  
