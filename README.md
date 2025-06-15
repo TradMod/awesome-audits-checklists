@@ -33,6 +33,9 @@
   Guidelines for submitting effective and complete bug reports.
 - [Anti-Hack Checklist](https://github.com/Quillhash/DeFi-anti-hack-checklist) — by QuillAudits  
   A checklist focused on preventing hacks in DeFi protocols.
+- [Crisis Handbook - Smart Contract Hack](https://docs.google.com/document/d/1DaAiuGFkMEMMiIuvqhePL5aDFGHJ9Ya6D04rdaldqC0/edit?tab=t.0) - SEAL  
+  A Checklist to follow when protocols get hacked and handle smart contracts hack crisis.
+
 
 ## 2. **ERC Standards & Edge Cases**
 ### ERC20
@@ -192,6 +195,9 @@
   Security risks and pitfalls when using inline assembly in Solidity.
 - [Solidity DevSecOps Standard](https://github.com/0xsomnus/Solidity-DevSecOps-Standard) — by 0xsomnus  
   DevSecOps best practices and standards for Solidity development.
+- [How To Multisig](https://howtomultisig.com/) - SEAL/fredrik  
+  Best practices on how to implement secure standard operation procedures for multisigs.
+
 
 ## Contribution
 If you'd like to contribute reach out on [X](https://x.com/TheTradMod), or Simply create a PR anon :)
