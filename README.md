@@ -107,6 +107,8 @@
 - [Stargate v2 Integration Checklist](https://mirror.xyz/0xaeDAA951e7fbe1031E3553a7a8b1d8A89b132d7b/WfZ1ewSlkbErd-swiBV0AGbQ0xEWdnq6nCzDNStDUKI) — by EngimaDark/Windhustler  
   Secruity Checklist for for Stargate V2 contracts integrations.
 ### UniswapV4 Hooks Integration Guides
+- [Questions To Ask Before Writing a Uniswap v4 Hook](https://blog.openzeppelin.com/6-questions-to-ask-before-writing-a-uniswap-v4-hook) - by OpenZeppelin  
+  This guide outlines some key considerations when designing a UniswapV4 hook to suit your specific needs.
 - [Uniswap V4 Hooks Security Talk](https://www.youtube.com/watch?v=Fbxsv8rxHZw) — by Damian (Composable Security)  
   A detailed presentation on Uniswap V4's architecture and the main security threats and best practices when building custom hooks.
 - [Uniswap V4 Hooks Security Deep Dive](https://www.youtube.com/watch?v=4o8yGcq6tfM) — by Jota Carpanelli (OpenZeppelin)  
