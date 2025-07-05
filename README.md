@@ -51,6 +51,8 @@
   A checklist for auditing ERC4626 (tokenized vault) contracts.
 - [ERC4626 Rounding Issues](https://x.com/sammyaudits/status/1831615410573136327) — by Sammy  
   A Twitter thread highlighting rounding errors in ERC4626 implementations.
+- [ERC4626 Vault Security Primer](https://github.com/devdacian/ai-auditor-primers/blob/main/primers/amy.vault.erc4626.primer.md) — by DevDacian    
+  Biggest ERC4626 checklist. More than 350 direct vulnerabilities, many pitfalls, integration errors and more.
 ### ERC4337 & Account Abstraction
 - [ERC4337 Security Checklist](https://github.com/aviggiano/security/blob/main/audit-checklists/ERC-4337.md) — by Aviggiano  
   Security checklist for ERC4337 (account abstraction) contracts.
