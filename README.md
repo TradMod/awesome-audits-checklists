@@ -1,5 +1,7 @@
 # Awesome Audits Checklists
 
+> NOTE: All the resources in this repo are for educational purposes only and have been curated especially for developers and auditors. Developers should use them to build more secure applications. Auditors should benefit from these resources as well, using them to learn and secure systems but they should not [rely](https://x.com/TheTradMod/status/1941314119090446734) solely on checklists. Auditors should always adapt checklists to their specific context and prioritize a deep understanding of systems and security principles over rigid reliance on lists. This repository is a community effort, a collection of humble contributions from security researchers around the world. Thanks and respect to everyone who shares their knowledge to help make blockchain applications safer for all.
+
 - [General Smart Contract Security & Audit Checklists](#1-general-smart-contracts-security--audit-checklists)
 - [ERC Standards & Edge Cases](#2-erc-standards--edge-cases)
 - [Bridges, Interoperability & Multichain](#3-bridges-interoperability--multichain)
