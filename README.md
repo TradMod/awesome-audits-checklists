@@ -11,7 +11,8 @@
 - [Signature Attacks](#7-signature-attacks)
 - [Governance](#8-governance)
 - [Chains Specific Security](#9-chains-specific-security)
-- [Other/Uncategorized](#10-otheruncategorized)
+- [Wallets Security](#10-wallets-security)
+- [Other/Uncategorized](#11-otheruncategorized)
 - [Contribution](#contribution)
 
 ## 1. **General Smart Contracts Security & Audit Checklists**
@@ -58,10 +59,6 @@
 ### ERC4337 & Account Abstraction
 - [ERC4337 Security Checklist](https://github.com/aviggiano/security/blob/main/audit-checklists/ERC-4337.md) — by Aviggiano  
   Security checklist for ERC4337 (account abstraction) contracts.
-- [Account Abstraction](https://mixbytes.io/blog/account-abstraction#rec613585484) — by MixBytes  
-  An article exploring security considerations for account abstraction.
-- [Account Abstraction Audit Checklist](https://slowmist.medium.com/slowmist-security-audit-checklist-for-account-abstraction-wallets-ed48fc10cdbc) — by Slowmist  
-  Audit checklist for account abstraction wallets.
 
 ## 3. **Bridges, Interoperability & Multichain**
 - [Interoperability Protocol Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist) — by Windhustler  
@@ -186,7 +183,19 @@
 - [Near Smart Contracts Checklist](https://docs.near.org/smart-contracts/security/checklist) — Near Docs  
   Near smart contracts security considerations list 
 
-## 10. **Other/Uncategorized**
+## 10. **Wallets Security**
+- [Web3 Wallet Security Checklist](https://blockapex.io/web3-wallet-security-checklist/) — by BlockApex  
+  A practical checklist covering best practices for securing Web3 wallets.
+- [All Wallet Security Checklist](https://www.slowmist.com/service-wallet-security-audit.html) — by SlowMist  
+  A comprehensive checklist for auditing and securing various types of crypto wallets.
+- [Account Abstraction](https://mixbytes.io/blog/account-abstraction#rec613585484) — by MixBytes  
+  An article exploring security considerations for account abstraction.
+- [Account Abstraction Audit Checklist](https://slowmist.medium.com/slowmist-security-audit-checklist-for-account-abstraction-wallets-ed48fc10cdbc) — by Slowmist  
+  Audit checklist for account abstraction wallets.
+- [Crypto Wallet Security Assessment Checklist ](https://www.certik.com/resources/blog/cryptowalletsecurityassessmentchecklist) — by Certik    
+  A checklist outlining key steps and best practices for assessing the security of crypto wallets.
+
+## 11. **Other/Uncategorized**
 - [Solidity Gas Optimizations](https://github.com/TechnoGeek01/solidity-gas-optimizations) — by TechnoGeek01  
   A curated list of gas-saving techniques and best practices for Solidity smart contract development.
 - [2020 Smart Contract Security Paper](https://arxiv.org/pdf/2008.04761) — by Nicola arXiv  
