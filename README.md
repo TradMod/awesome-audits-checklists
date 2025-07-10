@@ -38,7 +38,8 @@
   A checklist focused on preventing hacks in DeFi protocols.
 - [Crisis Handbook - Smart Contract Hack](https://docs.google.com/document/d/1DaAiuGFkMEMMiIuvqhePL5aDFGHJ9Ya6D04rdaldqC0/edit?tab=t.0) - SEAL  
   A Checklist to follow when protocols get hacked and handle smart contracts hack crisis.
-
+- [Practical Security Measures for Web3 Founders](https://www.youtube.com/watch?v=Wa--zO509bA) - Mehdi  SigmaPrime    
+  This is a must watch and practical measures to take for every Web3 founders, developers & researchers.
 
 ## 2. **ERC Standards & Edge Cases**
 ### ERC20
