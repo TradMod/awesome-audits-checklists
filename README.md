@@ -2,6 +2,8 @@
 
 > NOTE: All the resources in this repo are for educational purposes only and have been curated especially for developers and auditors. Developers should use them to build more secure applications. Auditors should benefit from these resources as well, using them to learn and secure systems but they should not [rely](https://x.com/TheTradMod/status/1941314119090446734) solely on checklists. Auditors should always adapt checklists to their specific context and prioritize a deep understanding of systems and security principles over rigid reliance on lists. This repository is a community effort, a collection of humble contributions from security researchers around the world. Thanks and respect to everyone who shares their knowledge to help make blockchain applications safer for all.
 
+
+### Table of Contents
 - [General Smart Contract Security & Audit Checklists](#1-general-smart-contracts-security--audit-checklists)
 - [ERC Standards & Edge Cases](#2-erc-standards--edge-cases)
 - [Bridges, Interoperability & Multichain](#3-bridges-interoperability--multichain)
@@ -13,6 +15,7 @@
 - [Chains Specific Security](#9-chains-specific-security)
 - [Wallets Security](#10-wallets-security)
 - [Other/Uncategorized](#11-otheruncategorized)
+- [Support](#support)
 - [Contribution](#contribution)
 
 ## 1. **General Smart Contracts Security & Audit Checklists**
@@ -214,6 +217,8 @@
 - [How To Multisig](https://howtomultisig.com/) - SEAL/fredrik  
   Best practices on how to implement secure standard operation procedures for multisigs.
 
+## Support
+If you want to support this repo and its contributors, you can do it on the [Terminal](https://terminal.merit.systems/TradMod/awesome-audits-checklists). Thanks!
 
 ## Contribution
 If you'd like to contribute reach out on [X](https://x.com/TheTradMod), or Simply create a PR anon :)
