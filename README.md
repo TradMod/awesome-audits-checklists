@@ -35,7 +35,7 @@
   Tips and steps to prepare your project for a successful smart contract audit.
 - [Development Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit?tab=readme-ov-file) — by Nascent  
   A toolkit of scripts, resources and checklists for enhancing security during smart contract development.
-  - [Multisig Security Best Practices](https://www.youtube.com/watch?v=lHk_RDzvKCc) — by Mudit Gupta  
+- [Multisig Security Best Practices](https://www.youtube.com/watch?v=lHk_RDzvKCc) — by Mudit Gupta  
   Video guide covering security best practices for implementing and managing multi-signature wallets and governance systems.
 - [Bug Report Submission Checklist](https://immunefisupport.zendesk.com/hc/en-us/articles/15427337783057-Bug-Report-Submission-Checklist) — by Immunefi  
   Guidelines for submitting effective and complete bug reports.
