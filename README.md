@@ -35,6 +35,8 @@
   Tips and steps to prepare your project for a successful smart contract audit.
 - [Development Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit?tab=readme-ov-file) — by Nascent  
   A toolkit of scripts, resources and checklists for enhancing security during smart contract development.
+  - [Multisig Security Best Practices](https://www.youtube.com/watch?v=lHk_RDzvKCc) — by Mudit Gupta  
+  Video guide covering security best practices for implementing and managing multi-signature wallets and governance systems.
 - [Bug Report Submission Checklist](https://immunefisupport.zendesk.com/hc/en-us/articles/15427337783057-Bug-Report-Submission-Checklist) — by Immunefi  
   Guidelines for submitting effective and complete bug reports.
 - [Anti-Hack Checklist](https://github.com/Quillhash/DeFi-anti-hack-checklist) — by QuillAudits  
@@ -64,6 +66,12 @@
 - [ERC4337 Security Checklist](https://github.com/aviggiano/security/blob/main/audit-checklists/ERC-4337.md) — by Aviggiano  
   Security checklist for ERC4337 (account abstraction) contracts.
 
+## 3. **Core Blockchain, Node & Infra**
+- [Core Node Security Guide](https://blog.sigmaprime.io/core-node-security.html) — by Sigma Prime  
+  A comprehensive security engineer's guide to reviewing core blockchain nodes, covering systematic approaches to conducting thorough security reviews of blockchain node implementations like Reth.
+- [Blockchain Security Thread](https://x.com/Designer_Misbah/status/1953906761871626751) — by Misbah  
+  Twitter thread covering general blockchain security considerations and best practices.  
+
 ## 3. **Bridges, Interoperability & Multichain**
 - [Interoperability Protocol Security Checklist](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist) — by Windhustler  
   A checklist for securing interoperability protocols LyerZero, CCIP, Wormhole etc and cross-chain solutions.
@@ -71,6 +79,10 @@
   A repository with resources and tools for auditing multichain protocols.
 - [Cross-chain Bridge Security Checklist](https://github.com/spearbit/portfolio/blob/master/content/bridges/BridgeSecurityChecklist.md) — by Spearbit  
   Checklist for auditing the security of cross-chain bridges.
+- [Blockchain Bridge Vulnerabilities](https://github.com/the-caliber/Blockchain-bridge-vulnerabilities) — by the-caliber  
+  Repository documenting various blockchain bridge vulnerabilities and security considerations for cross-chain bridge implementations.
+- [LayerZero Security Research](https://lab.guardianaudits.com/encyclopedia-of-security-research/layerzero) — by Guardian Audits  
+  Encyclopedia entry covering LayerZero protocol security research, vulnerabilities, and integration considerations.
 
 ## 4. **DeFi Protocols**
 - [AMM Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/amm.md) — by Decurity  
@@ -124,6 +136,8 @@
   A breakdown of the new security challenges and mitigation strategies for Uniswap V4 and its hooks.
 - [Uniswap V4 Hooks Integration Security Considerations](https://www.certik.com/resources/blog/uniswap-v4-hooks-security-considerations) — by CertiK  
   A blog post analyzing the unique security risks introduced by hooks in Uniswap V4 and how to address them.
+- [Uniswap V3/V4 Security](https://lab.guardianaudits.com/encyclopedia-of-security-research/uniswap) — by Guardian Audits  
+  Comprehensive security research and analysis of Uniswap V3 and V4 protocols, covering integration risks and security considerations.
 
 ## 6. **Proxies & Upgradability**
 - [Upgradable Patterns](https://www.youtube.com/watch?v=Zjj5lDmHlq8) — by Daniel Von Fange  
@@ -144,11 +158,15 @@
 ## 8. **Governance**
 - [DAO Governance Attacks](https://dacian.me/dao-governance-defi-attacks) — by Dacian  
   Analysis of attacks and vulnerabilities in DAO governance mechanisms.
+- [DAO Governance Security](https://blog.sigmaprime.io/governance-dao.html) — by Sigma Prime  
+  Common vulnerabilities in protocol governance and DAOs, covering reentrancy, insider threats, flash loan voting, proposal execution issues, and other governance-specific attack vectors.
 
 ## 9. **Chains Specific Security**
 - [Multichain Auditor](https://github.com/0xJuancito/multichain-auditor) — by 0xJuancito  
   A repository with resources and tools for auditing multichain protocols.
 ### Solana
+- [Solana Program Security Guide](https://www.helius.dev/blog/a-hitchhikers-guide-to-solana-program-security) — by Helius  
+  A comprehensive hitchhiker's guide to Solana program security covering common vulnerabilities, attack vectors, and mitigation strategies for intermediate/advanced developers building on Solana.
 - [Solana Best Practices](https://github.com/slowmist/solana-smart-contract-security-best-practices) — by Slowmist  
   Best practices for securing Solana smart contracts.
 - [SPL Token-2022](https://neodyme.io/en/blog/token-2022/#tldr) - by Neodyme  
@@ -186,6 +204,9 @@
 ### Near
 - [Near Smart Contracts Checklist](https://docs.near.org/smart-contracts/security/checklist) — Near Docs  
   Near smart contracts security considerations list 
+### Binance Chain
+- [BNB Chain Security Tips](https://cantina.xyz/blog/bnb-chain-security-tips) — by Cantina  
+  Top 15 security recommendations for BNB Chain developers covering vulnerability patterns, exploit defenses, and secure engineering practices specific to BNB Chain development.
 
 ## 10. **Wallets Security**
 - [Web3 Wallet Security Checklist](https://blockapex.io/web3-wallet-security-checklist/) — by BlockApex  
@@ -198,8 +219,14 @@
   Audit checklist for account abstraction wallets.
 - [Crypto Wallet Security Assessment Checklist ](https://www.certik.com/resources/blog/cryptowalletsecurityassessmentchecklist) — by Certik    
   A checklist outlining key steps and best practices for assessing the security of crypto wallets.
+- [Web3 Wallet Security Checklist](https://blockapex.io/web3-wallet-security-checklist/) — by BlockApex  
+  A practical checklist covering best practices for securing Web3 wallets and wallet security assessment methodologies.
 
 ## 11. **Other/Uncategorized**
+- [Oracle Security Thread](https://x.com/0xjmaria/status/1939980905453367761) — by @0xjmaria  
+  Twitter thread detailing oracle-specific security considerations and vulnerabilities.
+- [Oracles and Pricing Security](https://blog.sigmaprime.io/oracles-and-pricing.html) — by Sigma Prime  
+  Comprehensive guide to common vulnerabilities in oracles and pricing feeds, covering spot pricing attacks, homegrown oracle issues, time delays, gas congestion, and price manipulation techniques.
 - [Solidity Gas Optimizations](https://github.com/TechnoGeek01/solidity-gas-optimizations) — by TechnoGeek01  
   A curated list of gas-saving techniques and best practices for Solidity smart contract development.
 - [2020 Smart Contract Security Paper](https://arxiv.org/pdf/2008.04761) — by Nicola arXiv  
@@ -216,6 +243,12 @@
   DevSecOps best practices and standards for Solidity development.
 - [How To Multisig](https://howtomultisig.com/) - SEAL/fredrik  
   Best practices on how to implement secure standard operation procedures for multisigs.
+
+- [CREATE/CREATE2 Security Pitfalls](https://mixbytes.io/blog/pitfalls-of-using-cteate-cteate2-and-extcodesize-opcodes) — by MixBytes  
+  Analysis of security pitfalls when using CREATE, CREATE2, and EXTCODESIZE opcodes in smart contract development.
+
+- [EIP-7702 Security Considerations](https://www.youtube.com/watch?v=ZFN2bYt9gNE) — by Tincho/Red Guild
+  Video discussion on security implications and considerations for EIP-7702 implementation.
 
 ## Support
 If you want to support this repo and its contributors, you can do it on the [Terminal](https://terminal.merit.systems/TradMod/awesome-audits-checklists). Thanks!
