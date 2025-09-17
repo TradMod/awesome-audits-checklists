@@ -91,6 +91,8 @@
   An in-depth article on security considerations and audit tips for Automated Market Maker protocols.
 - [CDP Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/cdp.md) — by Decurity  
   Checklist for auditing Collateralized Debt Positions.
+- [Vulnerabilities in Liquity forks Part 1](https://x.com/VulsightSec/status/1968039102848110619) - by VulSight / ZeroCipher  
+  Common Vulnerabilities in Liquity v2 forks & Considerations to safely deploy Liquity V2.
 - [LSD Audit Checklist](https://github.com/Decurity/audit-checklists/blob/master/lsd.md) — by Decurity  
   Checklist for auditing LSD protocols.
 - [Guidelines for Auditing Staking Protocols](https://defihacklabs.substack.com/p/solidity-security-lesson-3-guidelines) - QuillAudits  
