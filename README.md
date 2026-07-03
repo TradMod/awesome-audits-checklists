@@ -222,6 +222,8 @@
   An article exploring security considerations for account abstraction.
 - [Account Abstraction Audit Checklist](https://slowmist.medium.com/slowmist-security-audit-checklist-for-account-abstraction-wallets-ed48fc10cdbc) — by Slowmist  
   Audit checklist for account abstraction wallets.
+- [Compromised Wallet Recovery with EIP-7702](https://allthingsweb3.com/resources/compromised-wallet-recovery-sweeper-bot-guide) — by All Things Web3
+  Practical guide to using sponsor-wallet gas and EIP-7702 delegation to recover assets from swept EOAs.
 - [Crypto Wallet Security Assessment Checklist ](https://www.certik.com/resources/blog/cryptowalletsecurityassessmentchecklist) — by Certik    
   A checklist outlining key steps and best practices for assessing the security of crypto wallets.
 - [Web3 Wallet Security Checklist](https://blockapex.io/web3-wallet-security-checklist/) — by BlockApex  
