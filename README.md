@@ -176,6 +176,7 @@
 - [Solana Not-So-Smart Contracts](https://secure-contracts.com/not-so-smart-contracts/solana/index.html) — by ToB Secure Contracts  
   Examples of security issues in Solana contracts.
 - [Solana Advanced Security](https://substack.com/home/post/p-164534668) — by Nirlin  
+- [Solana Price Alert (n8n)](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow: alerts on Telegram when a Solana SPL token price crosses a threshold, no external database, ready in 5 minutes.
   Advanced security topics for Solana developers.
 ### Arbitrum
 - [Arbitrum Integration Bugs](https://github.com/windhustler/Interoperability-Protocol-Security-Checklist/blob/main/audit-checklists/Arbitrum.md) — by Windhustler  
