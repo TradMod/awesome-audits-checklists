@@ -253,6 +253,8 @@
   Analysis of security pitfalls when using CREATE, CREATE2, and EXTCODESIZE opcodes in smart contract development.
 
 - [EIP-7702 Security Considerations](https://www.youtube.com/watch?v=ZFN2bYt9gNE) — by Tincho/Red Guild
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 7 EVM chains.
+
   Video discussion on security implications and considerations for EIP-7702 implementation.
 
 ## Support
